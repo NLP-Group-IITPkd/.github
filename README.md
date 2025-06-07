@@ -21,7 +21,7 @@ Our group is composed of dedicated students and researchers led by Prof. Swapnil
 *   **Sudhin S** - <142402022@smail.iitpkd.ac.in>
 *   **Abigairl Nyasha Chigwededza** - <142402015@smail.iitpkd.ac.in>
 *   **Shrikant Tryambak Budde** - <142402010@smail.iitpkd.ac.in>
-*   **G L John Salvin** - <142503002@smail.iitpkd.ac.in>
+*   **John Salvin** - <142503002@smail.iitpkd.ac.in>
 *   **Gollapalli Babblu** - <142504001@smail.iitpkd.ac.in>
 
 ## Our Projects
